@@ -19,16 +19,16 @@ baseurl: ''
 lang: en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Andrew Mueller
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
+  Marketing | Strategy | Customer Experience
   **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
-tagline:               '"Best Jekyll Theme by a Mile"'
+tagline:               Marketing | Strategy | Customer Experience
 
 # A list of keywords for your blog
 keywords: []
@@ -40,8 +40,8 @@ logo: /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name: <Andrew> <Mueller>
-  email: <mail@domain.tld>
+  name: Andrew Mueller
+  email: andrew@muellerandrew.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
