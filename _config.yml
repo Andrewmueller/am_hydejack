@@ -24,7 +24,7 @@ title:                 Andrew Mueller
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:          >
-   marketing strategy executive coaching and behavioral economics with Andrew Mueller
+   marketing strategy, executive coaching, customer experience and behavioral economics with Andrew Mueller
 
 
 # A shorter description for the sidebar.
@@ -43,6 +43,8 @@ logo: /assets/icons/icon.png
 author:
   name: Andrew Mueller
   email: andrew@muellerandrew.com
+  about: |
+    marketing strategy, customer experience and executive success with Andrew Mueller
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
