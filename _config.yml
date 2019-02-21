@@ -42,11 +42,13 @@ logo: /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name: Andrew Mueller
+    Social: 
+      Twitter: andrewmueller
   email: andrew@muellerandrew.com
   about: |
     marketing strategy, customer experience and executive success with Andrew Mueller
   # Used by `jekyll-seo-tag`:
-  # twitter:            andrewmueller
+  # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: >
