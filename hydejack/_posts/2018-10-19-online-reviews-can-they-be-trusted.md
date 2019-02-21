@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Online reviews, can they be trusted?"
-date:   2018-10-19 
-categories:
+title: Online reviews, can they be trusted?
 ---
 
 > For those who know their skin care products, Sunday Riley is a beloved brand. Good Genes face acid is a best-seller at Sephora and frequently hailed as a holy grail product. But the company got some unwelcome scrutiny this week after a former employee shared an email directing employees to open fake accounts and leave glowing Sephora reviews of new Sunday Riley products, on the subreddit r/skincareaddiction. The post shocked customers and served to highlight the questionable trustworthiness of online product reviews at retailers like Sephora.
 
-[Cheryl Wischhover for Vox]9https://www.vox.com/the-goods/2018/10/16/17984456/sunday-riley-sephora-fake-reviews)
+[Cheryl Wischhover for Vox](https://www.vox.com/the-goods/2018/10/16/17984456/sunday-riley-sephora-fake-reviews)
 
 This should surprise no-one. The days when you could trust online reviews are all over. Jeff Bezos has been known to say that peer reviews were the driving force behind Amazon’s growth, and in the beginning, the reviews — and the overall averages — were likely a fairly good gauge of a product's quality. Today these reviews are often gamed, and many can’t be trusted. How does a no-name brand shower curtain gain thousands of reviews in a matter of months? They cheat that’s how. And when they cheat the reviews and their averages skew positive.  
 
