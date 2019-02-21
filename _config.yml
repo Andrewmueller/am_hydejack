@@ -42,8 +42,8 @@ logo: /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name: Andrew Mueller
-    Social: 
-      Twitter: andrewmueller
+  social: 
+    twitter: andrewmueller
   email: andrew@muellerandrew.com
   about: |
     Marketing strategy, customer experience and executive success with Andrew Mueller
