@@ -2,15 +2,17 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name: <firstname> <lastname>
-  email: <mail@domain.tld>
+  name: Andrew Mueller
+  email: andrew@muellerandrew.com
+
+  # Used by `jekyll-seo-tag`:
+  # twitter:             <username>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  
   about: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    marketing strategy, customer experience and executive success with Andrew Mueller
 
     Open `_data/authors.yml` to edit this text.
 
