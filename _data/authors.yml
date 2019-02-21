@@ -12,13 +12,9 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   
   about: |
-    marketing strategy, customer experience and executive success with Andrew Mueller
+    Marketing strategy, customer experience and executive success with Andrew Mueller
 
     Open `_data/authors.yml` to edit this text.
-
-    [Download Free][kit]
-    -- or --
-    [Buy PRO][buy]
 
     [kit]: https://github.com/qwtel/hydejack-starter-kit/archive/v8.1.1.zip
     [buy]: https://app.simplegoods.co/i/NATYVLYT
