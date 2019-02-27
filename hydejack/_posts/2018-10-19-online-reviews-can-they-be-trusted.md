@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: Online reviews, can they be trusted?
 ---
 [Cheryl Wischhover, writing for Vox:](https://www.vox.com/the-goods/2018/10/16/17984456/sunday-riley-sephora-fake-reviews)
@@ -10,4 +10,3 @@ This should surprise no-one. The days when you could trust online reviews are al
 A couple weeks ago, my hair was out of control and I needed a cut. Nadia, my normal stylist was unavailable and foolish me, searches on Google and looked for a barber who could do an emergency cut. Most had mixed reviews. I read quite a few before settling on one seemed to have a better ratio than the rest. When I arrived I sat down. It was a small shop and you could hear everything. As the previous customer was paying the barber, who was very nice, asked them to go to Google and leave a review. At that moment knew I was in trouble. Thankfully I’ll be seeing Nadia Sunday. 
 
 Let’s face it, leaving a review is work. We are more likely to leave a review when we are pissed than when we are pleased. So you can pretty much rest assured when products or services that don’t inspire great customer loyalty get rave reviews — and sometimes even when they do —  they worked hard to entice reviewers to leave them — be it through straightforward bribery, social pressure, the case of the barber or fear of losing one’s job, Sunday Riley.
-
