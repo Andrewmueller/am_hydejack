@@ -68,7 +68,7 @@ permalink: /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate: 5
-paginate_path: '/am_hydejack/blog/page-:num/'
+paginate_path: '/blog/page-:num/'
 
 # Customizaton
 # ========================================================================================
