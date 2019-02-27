@@ -1,5 +1,5 @@
 ---
-layout: posblogt
+layout: blog
 title: Introducing Hydejack (v3)
 description: >
   Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme,
