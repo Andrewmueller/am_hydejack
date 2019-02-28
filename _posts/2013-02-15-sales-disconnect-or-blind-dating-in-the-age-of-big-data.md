@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Sales Disconnect, or Blind Dating In The Age Of Big Data
+image: /assets/img/blog/blinddate2.png
+title: Sales disconnect, or blind dating in the age of big data
+categories: [customer experience]
 ---
 
 Companies are getting better and better at generating leads from content marketing efforts. They’re also more aggressively following up on these leads. This is great — if you want to move leads through the funnel you need to work them. But this follow up needs to be appropriate for the individual you are interacting with. 
