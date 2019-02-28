@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Achieving Brand Nirvana Through Celebrity Creative Direction!
-categories:
 ---
 
 For many brands, hiring a celebrity as a creative director makes a lot of sense. Celebrities often represent the aspirations of their fans — beauty, charisma, strength, health, wealth, hip factor, and intelligence come to mind. When the brands is aligned with the same or complimentary attributes a celebrity Creative Director can have significant impact.
