@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Online reviews, can they be trusted?
 ---
 [Cheryl Wischhover, writing for Vox:](https://www.vox.com/the-goods/2018/10/16/17984456/sunday-riley-sephora-fake-reviews)
