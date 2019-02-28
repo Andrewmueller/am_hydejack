@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: Achieving Brand Nirvana Through Celebrity Creative Direction!
 categories:
 ---
