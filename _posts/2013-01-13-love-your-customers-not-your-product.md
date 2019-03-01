@@ -1,7 +1,7 @@
- ---
+---
 layout: post
-title:  Love your customers, not your product
-Image:  image: /assets/img/blog/coffee-heart.png
+title: Love your customers, not your product
+image: /assets/img/blog/coffee-heart.png
 categories: [customer experience]
 ---
 
