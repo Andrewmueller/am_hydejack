@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 image: /assets/img/blog/blind-date-2.png
 title: Sales disconnect, or blind dating in the age of big data
 categories: [customer experience]
