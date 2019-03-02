@@ -259,7 +259,8 @@ plugins:
 
 # Theme
 # ---------------------------------------------------------------------------------------
-
+  
+markdown: kramdown
 theme: jekyll-theme-hydejack
 remote_theme: qwtel/hydejack@gem
 
